@@ -15,7 +15,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my sphere landing page (my link)
+Here's my sphere landing page (https://mohsinahmedz.github.io/mohsin-ahmed-profiles.github.io/)
 
 ### Custom Domain
 
