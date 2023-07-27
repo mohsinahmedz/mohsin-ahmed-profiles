@@ -2,10 +2,6 @@
 
 Minimal landing page for developers.
 
-## Themes
-
-Dev Landing Page comes in 9 **material themes**.
-
 ## GitHub Pages
 
 GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
